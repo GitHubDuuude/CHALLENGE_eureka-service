@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.edu.uptc</groupId>
-	<artifactId>apigateway-service</artifactId>
+	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>apigateway-service</name>
+	<name>eureka-server</name>
 	<description/>
 	<url/>
 	<licenses>
